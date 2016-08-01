@@ -1,0 +1,93 @@
+* {
+	font-family: verdana;
+	text-align: center;
+}
+
+nav li {
+	display: inline;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-type: none;
+	padding-right: 5%;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+.fondo1 {
+	background-color: gold;
+	background-image: url(../img/background1.jpg);
+	background-repeat: no-repeat;
+	width: 960px;
+	height: 500px;
+	display: block;
+	margin-top: 25px;
+	padding-top: 40px;
+}
+h1 {
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
+h4 {
+	font-size: 25px;
+	color: white;
+}
+.logo {
+	margin-bottom: 45px;
+}
+.fondo2{
+	background-color: lightgray;
+	background-image: url(../img/tile1.png);
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.fotoperfil {
+	width: 250px;
+	height: 250px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border: solid 3px lightgray;
+	padding: 3px;
+}
+p {
+	font-size: 12px;
+	margin-right: 20px;
+	margin-left: 60px;
+}
+h2{
+	font-size: 25px;
+	color: purple;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+h3{
+	color: purple;
+}
+.foto4 {
+	width: 200px;
+	height: 200px;
+	border: solid 2px purple;
+	border-radius: 100%;
+	padding: 2px;
+	
+}
+#derecha{
+	padding-left: 220px;
+}
+#izquierda{
+	margin-left: -280px;
+}
+.fondofooter {
+	background-color: lightgray;
+	background-image: url(../img/tile2.png);
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.redes {
+	display: center;
+}
+.espacio {
+	margin-top: 50px;
+}
